@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint2\Tyuiu.HodakovaNA.Sprint2.Task2.V25\obj\Debug\Tyuiu.HodakovaNA.Sprint2.Task2.V25.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint2\Tyuiu.HodakovaNA.Sprint2.Task2.V25\obj\Debug\Tyuiu.HodakovaNA.Sprint2.Task2.V25.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint2\Tyuiu.HodakovaNA.Sprint2.Task2.V25\bin\Debug\Tyuiu.HodakovaNA.Sprint2.Task2.V25.exe.config
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint2\Tyuiu.HodakovaNA.Sprint2.Task2.V25\bin\Debug\Tyuiu.HodakovaNA.Sprint2.Task2.V25.exe
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint2\Tyuiu.HodakovaNA.Sprint2.Task2.V25\bin\Debug\Tyuiu.HodakovaNA.Sprint2.Task2.V25.pdb
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint2\Tyuiu.HodakovaNA.Sprint2.Task2.V25\bin\Debug\Tyuiu.HodakovaNA.Sprint2.Task2.V25.Lib.dll
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint2\Tyuiu.HodakovaNA.Sprint2.Task2.V25\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint2\Tyuiu.HodakovaNA.Sprint2.Task2.V25\bin\Debug\Tyuiu.HodakovaNA.Sprint2.Task2.V25.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint2\Tyuiu.HodakovaNA.Sprint2.Task2.V25\obj\Debug\Tyuiu.HodakovaNA.Sprint2.Task2.V25.csproj.CopyComplete
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint2\Tyuiu.HodakovaNA.Sprint2.Task2.V25\obj\Debug\Tyuiu.HodakovaNA.Sprint2.Task2.V25.exe
+C:\Users\User\source\repos\Tyuiu.HodakovaNA.Sprint2\Tyuiu.HodakovaNA.Sprint2.Task2.V25\obj\Debug\Tyuiu.HodakovaNA.Sprint2.Task2.V25.pdb
