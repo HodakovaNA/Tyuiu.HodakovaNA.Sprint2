@@ -37,11 +37,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.HodakovaNA.Sprint2.Ta
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{3E971CE0-3E86-4811-B2FA-5A8F225D83E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.HodakovaNA.Sptint2.Task4.V25", "Tyuiu.HodakovaNA.Sptint2.Task4.V25\Tyuiu.HodakovaNA.Sptint2.Task4.V25.csproj", "{D277CF07-DA33-44D1-BB18-941EBABAFD70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.HodakovaNA.Sprint2.Task4.V25", "Tyuiu.HodakovaNA.Sprint2.Task4.V25\Tyuiu.HodakovaNA.Sprint2.Task4.V25.csproj", "{D277CF07-DA33-44D1-BB18-941EBABAFD70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.HodakovaNA.Sptint2.Task4.V25.Test", "Tyuiu.HodakovaNA.Sptint2.Task4.V25.Test\Tyuiu.HodakovaNA.Sptint2.Task4.V25.Test.csproj", "{2FA5AA66-CF7E-4892-B7CF-69D43C48E5E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.HodakovaNA.Sprint2.Task4.V25.Test", "Tyuiu.HodakovaNA.Sprint2.Task4.V25.Test\Tyuiu.HodakovaNA.Sprint2.Task4.V25.Test.csproj", "{2FA5AA66-CF7E-4892-B7CF-69D43C48E5E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.HodakovaNA.Sptint2.Task4.V25.Lib", "Tyuiu.HodakovaNA.Sptint2.Task4.V25.Lib\Tyuiu.HodakovaNA.Sptint2.Task4.V25.Lib.csproj", "{7597FB45-45E0-43E0-8D99-4C0B62F33882}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.HodakovaNA.Sprint2.Task4.V25.Lib", "Tyuiu.HodakovaNA.Sprint2.Task4.V25.Lib\Tyuiu.HodakovaNA.Sprint2.Task4.V25.Lib.csproj", "{7597FB45-45E0-43E0-8D99-4C0B62F33882}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
